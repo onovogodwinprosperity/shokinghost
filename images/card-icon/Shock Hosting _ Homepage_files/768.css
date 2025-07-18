@@ -1,0 +1,616 @@
+
+
+section {
+    padding: 68px 0px;
+}
+
+.hero-shared,
+.hero-vps,
+.hero-dedicated,
+.hero-about,
+.hero-reseller {
+    padding: 76px 0px 64px 0px;
+    height: auto;
+}
+
+.banner-slide {
+    padding: 76px 0px 78px 0px;
+}
+
+#header .hnav:nth-child(1) {
+    display: none;
+}
+
+#header .hnav li {
+    display: none;
+}
+
+#header .col:nth-last-child(1) li:nth-last-child(1) {
+    display: block;
+    margin-left: 0px;
+}
+
+.sh-nav li {
+    display: none;
+}
+
+#sh-btns .sh-nav li:nth-last-child(1) {
+    display: block;
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner p {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+
+.tp-widget span:nth-child(1) {
+    display: none;
+}
+
+.plan-boxes #plans .col {
+    width: 48%;
+    margin-bottom: 28px;
+}
+
+.plan-boxes {
+    padding-bottom: 40px;
+}
+
+#entry-left {
+    padding-right: 20px;
+}
+
+.plan-boxes #plans .col h3 {
+    font-size: 20px;
+}
+
+
+h2 {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+
+h3 {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+h4 {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+h5 {
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.tl {
+    padding-bottom: 12px;
+}
+
+#tp-slider #main-col {
+    width: 48%;
+}
+
+
+#tp-slider #main-col:nth-last-child(1) {
+    display: none;
+}
+
+#tp-customer {
+    justify-content: flex-start;
+}
+
+#tp-customer .col.leftauto {
+    display: none;
+}
+
+
+#tp-slider .carousel-control-prev,
+#tp-slider .carousel-control-next {
+    display: none;
+}
+
+.features .flex-grid.four .col {
+    width: 50%;
+}
+
+.half-bg-grey,
+.half-bg-dark {
+    padding: 60px 0px;
+}
+
+.half-bg-grey .flex-grid.two .col:nth-child(2),
+.half-bg-dark .flex-grid.two .col:nth-child(2) {
+    padding-left: 48px;
+}
+
+.half-bg-grey .flex-grid.two .col:nth-child(1),
+.half-bg-dark .flex-grid.two .col:nth-child(1) {
+    padding-right: 48px;
+    padding-left: 20px;
+}
+
+#services .col:nth-child(1) img,
+#services .col:nth-child(2) img {
+    left: unset !important;
+    top: unset !important;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.input-box {
+    width: 88%;
+
+}
+
+#footer ul li a:hover {
+}
+
+.footer-bottom {
+    text-align: center;
+    padding: 48px 0px 28px 0px;
+}
+
+.footer-logo {
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 16px;
+    float: none;
+}
+
+#slogan {
+    display: block;
+    float: none;
+    border-left: 0px;
+    padding-left: 0px;
+    margin-bottom: 18px;
+}
+
+.footer-bottom .col {
+    width: 100%;
+    margin-left: 0px;
+    text-align: center !important;
+}
+
+.social {
+    float: none;
+    margin: 0px 6px;
+}
+
+#tp-single-slider .carousel-control-prev {
+    left: 2%;
+}
+
+
+#tp-single-slider .carousel-control-next {
+    right: 2%;
+}
+
+#tp-single-slider p {
+    max-width: 600px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+#cpanel-nav {
+    margin-top: 0px;
+}
+
+.cpanel-powered .colsecond {
+    padding-right: 20px;
+}
+
+.cpanel-powered .colsecond,
+.cpanel-powered .colfirst {
+    width: 100% !important;
+}
+
+#cpanel-nav li {
+    margin-top: 14px;
+    display: inline-block;
+    width: 25%;
+    margin: 0% 0%;
+    float: left;
+}
+
+#cpanel-nav li a {
+    padding: 24px 12px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 26px;
+}
+
+#cpanel-nav li a img {
+    margin: 0px auto;
+    display: block;
+    margin-bottom: 12px;
+}
+
+#requestdemo {
+    display: none;
+}
+
+
+#cpanel {
+    margin: 16px 0px 0px 0px;
+}
+
+img {
+    max-width: 100%;
+}
+
+#softaculous .seven .col {
+    width: 15.25%;
+    padding: 24px 0px 16px 0px;
+}
+
+#softaculous .seven .col:nth-last-child(1) {
+    display: none;
+}
+
+.faq .flex-grid.two .col {
+    width: 50%;
+}
+
+#shared-plans #plans .col {
+    padding: 38px 24px 26px 24px;
+}
+
+#billing-cycle {
+    padding-top: 20px;
+}
+
+.flex-grid.two .col.padding-right {
+    padding-right: 20px;
+}
+
+#step-2 .icon .step {
+    top: -8px;
+    right: unset;
+    left: -12px;
+}
+
+#feature-lists .col {
+    width: 50%;
+}
+
+#softaculous-text {
+    width: 78%;
+}
+
+.vps-nav li:nth-child(1) {
+    display: block;
+}
+
+#rangecol h2:nth-child(1) {
+    padding-bottom: 4px;
+}
+
+.range-labels li {
+    padding-bottom: 6px;
+}
+
+.spec img {
+    display: none;
+}
+
+#spec-col h4 {
+    color: #c01414;
+}
+
+#spec-col .col {
+    padding: 16px 0px 16px 0px;
+}
+
+.pbox-fix {
+    padding: 28px 20px 0px 20px;
+}
+
+#spec-col h2 {
+    padding-top: 0px;
+}
+
+#spec-col h2 {
+    font-size: 20px;
+}
+
+.sliderlink span {
+    display: none;
+}
+
+.vpsslider .flex-grid.twothirds .colsecond {
+    padding-left: 0px;
+}
+
+#custom-server-vps {
+    padding-top: 48px;
+}
+
+#vps-servers .col:nth-child(2) {
+    display: none;
+}
+
+#server-specs-left {
+    padding-right: 20px;
+    width: 100%;
+}
+
+.map {
+    background-size: 330px;
+    width: 330px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.pin {
+    font-size: 12px;
+}
+
+.pin span {
+    width: 14px;
+    height: 14px;
+    border: 1px solid #c01414;
+}
+
+#map-text {
+    padding-left: 20px;
+    padding-top: 0px;
+}
+
+.features .title {
+    padding-bottom: 0px;
+}
+
+.operating-systems .flex-grid.seven .col {
+    padding: 0px 12px;
+    height: 26px;
+}
+
+.operating-systems {
+    padding: 24px 0px;
+}
+
+.server-plan {
+    padding: 30px 8px 4px 8px;
+    width: 48%;
+    margin-top: 28px;
+    float: left;
+}
+
+.server-plan:nth-child(2n) {
+    float: right;
+}
+
+.server-plan .col {
+    width: 100% !important;
+    text-align: center;
+}
+
+#server-specs .col {
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+    width: 50% !important;
+    float: left;
+    padding-bottom: 20px;
+}
+
+#server-specs .col img {
+    position: relative;
+    top: unset;
+    left: unset;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 6px;
+}
+
+.dedibtn {
+    margin-top: 24px;
+}
+
+#server-model h3 {
+    margin-bottom: 6px;
+}
+
+#dedicated-nav li a {
+    height: 36px;
+    line-height: 36px;
+    padding: 0px 12px;
+    font-size: 14px;
+}
+
+#dedicated-nav li a span {
+    display: none;
+}#dedicated-nav li b {    height: 36px;    line-height: 36px;    padding: 0px 12px;    font-size: 14px;}#dedicated-nav li b span {    display: none;}#dedicated-nav li c {    height: 36px;    line-height: 36px;    padding: 0px 12px;    font-size: 14px;}#dedicated-nav li c span {    display: none;}#dedicated-nav li d {    height: 36px;    line-height: 36px;    padding: 0px 12px;    font-size: 14px;}#dedicated-nav li d span {    display: none;}
+#dedicated-nav li e {    height: 36px;    line-height: 36px;    padding: 0px 12px;    font-size: 14px;}#dedicated-nav li e span {    display: none;}#dedicated-nav li f {    height: 36px;    line-height: 36px;    padding: 0px 12px;    font-size: 14px;}#dedicated-nav li f span {    display: none;}#dedicated-nav li g {    height: 36px;    line-height: 36px;    padding: 0px 12px;    font-size: 14px;}#dedicated-nav li g span {    display: none;}#dedicated-nav li h {    height: 36px;    line-height: 36px;    padding: 0px 12px;    font-size: 14px;}#dedicated-nav li h span {    display: none;}
+#location-nav {
+    padding-bottom: 0px;
+}
+
+#dedicated-nav li {
+    display: inline-block;
+    margin-left: 2px;
+}
+
+#spec-6 {
+    padding-left: 20px !important;
+}
+
+#locations-nav {
+    display: none;
+}
+
+#locations-navigation {
+    width: 100%;
+    padding: 0px 20px 20px 20px;
+    margin-bottom: 20px;
+}
+
+#locations-content {
+    padding: 0px;
+    width: 100%;
+}
+
+#locations-navigation #locationSelect {
+    display: block;
+}
+
+#dedi-locations {
+    padding-bottom: 50px;
+}
+
+#dedi-locations .title {
+    padding-bottom: 14px;
+}
+
+#dedicated-features li {
+    padding: 12px 20px 12px 20px;
+}
+
+
+.about-features .col {
+    padding: 48px 20px;
+}
+
+#values .col {
+    padding: 40px 20px 0px 20px;
+}
+
+#values .col h4 br {
+    display: none;
+}
+
+.year {
+    display: none;
+}
+
+
+.our-story #text {
+    padding-right: 8%;
+}
+
+.vl-nav ul li a {
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 18px;
+}
+
+.vl-nav li a span {
+    display: none;
+}
+
+.title {
+    padding-bottom: 38px;
+}
+
+
+.dc-overview {
+    padding-left: 0px;
+}
+
+.dc-location {
+    padding: 48px 16px 12px 16px;
+}
+
+
+#footer ul {
+    margin-bottom: -2px;
+}
+
+.footer-bottom ul {
+    padding-top: 12px;
+}
+
+.btick {
+    max-width: 80%;
+    margin:0 auto;
+}
+
+#sd-list li {
+    width:33.3333%;
+    margin-right:0px;
+}
+
+#sd-list li img {
+    height:40px;
+    float: none;
+    margin: 0px auto;
+    margin-bottom: 8px;
+    display: block;
+}
+
+#slide-dedicated {
+    padding-top:74px;
+}
+
+
+.map {
+    background-size: 370px;
+    width: 370px;
+    height: 200px;
+    margin: 0 auto;
+    float:none;
+}
+
+
+.pin {
+    font-size: 12px;
+    line-height:16px;
+}
+
+.pin span {
+    width: 6px;
+    height: 6px;
+    border: 0px solid #c01414;
+}
+
+.pin span:before {
+    width:6px;
+    height:6px;
+    left:unset;
+    top:unset;
+}
+
+.dc-box {
+    padding:16px;
+}.ny {    top: 78px;    left: 86px;}.la {    top: 89px;    left: -27px;}
+
+.wc {
+    top: 64px;
+    left: 41px;
+}
+.tx {
+    top: 94px;
+    left: 54px;
+}.fl {    top: 89px;    left: 82px;}.co {    top: 79px;    left: 12px;}.wa {    top: 68px;    left: -8px;}
+
+.uk {
+    left: 143px;
+    top: 46px;
+}
+.nl {
+    left: 174px;
+    top: 64px;
+}.de {    left: 166px;    top: 79px;}.ro {    left: 204px;    top: 75px;}.au {    left: 322px;    top: 157px;}.jp {    top: 72px;    left: 319px;}.sg {    left: 268px;    top: 112px;}
+
+#dedicated-nav li a {
+    background: url(../images/vps-nav.png) center left 8px no-repeat #fff;
+    padding-left: 30px;
+}
+
+#dedicated-nav li a.active, #dedicated-nav li a.active:hover {
+    background: url(../images/vps-nav-active.png) center left 8px no-repeat #fff;
+}
+#dedicated-nav li b {    background: url(../images/vps-nav.png) center left 8px no-repeat #fff;    padding-left: 30px;}#dedicated-nav li b.active, #dedicated-nav li b.active:hover {    background: url(../images/vps-nav-active.png) center left 8px no-repeat #fff;}
+#dedicated-nav li c {    background: url(../images/vps-nav.png) center left 8px no-repeat #fff;    padding-left: 30px;}#dedicated-nav li c.active, #dedicated-nav li c.active:hover {    background: url(../images/vps-nav-active.png) center left 8px no-repeat #fff;}#dedicated-nav li d {    background: url(../images/vps-nav.png) center left 8px no-repeat #fff;    padding-left: 30px;}#dedicated-nav li d.active, #dedicated-nav li d.active:hover {    background: url(../images/vps-nav-active.png) center left 8px no-repeat #fff;}#dedicated-nav li e {    background: url(../images/vps-nav.png) center left 8px no-repeat #fff;    padding-left: 30px;}#dedicated-nav li e.active, #dedicated-nav li e.active:hover {    background: url(../images/vps-nav-active.png) center left 8px no-repeat #fff;}#dedicated-nav li f {    background: url(../images/vps-nav.png) center left 8px no-repeat #fff;    padding-left: 30px;}#dedicated-nav li f.active, #dedicated-nav li f.active:hover {    background: url(../images/vps-nav-active.png) center left 8px no-repeat #fff;}#dedicated-nav li g {    background: url(../images/vps-nav.png) center left 8px no-repeat #fff;    padding-left: 30px;}#dedicated-nav li g.active, #dedicated-nav li g.active:hover {    background: url(../images/vps-nav-active.png) center left 8px no-repeat #fff;}#dedicated-nav li h {    background: url(../images/vps-nav.png) center left 8px no-repeat #fff;    padding-left: 30px;}#dedicated-nav li h.active, #dedicated-nav li h.active:hover {    background: url(../images/vps-nav-active.png) center left 8px no-repeat #fff;}
+.footer-bottom a.social:hover {
+    margin-left:6px !important;
+}

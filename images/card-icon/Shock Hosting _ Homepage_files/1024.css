@@ -1,0 +1,206 @@
+
+
+img {
+    max-width: 100%;
+}
+
+section {
+    padding: 80px 0px;
+}
+
+.banner-slide {
+    padding-left:80px !important;
+}
+
+.banner p {
+    max-width: 70%;
+}
+
+.plan-boxes #plans .col h3 {
+    font-size: 20px;
+}
+
+.plan-boxes #plans .col {
+    padding: 24px 20px 16px 20px;
+}
+
+#tp-customer .leftauto {
+    display: none;
+}
+
+#tp-customer {
+    justify-content: flex-start;
+}
+
+.sh-nav li a span {
+    display: none;
+}
+
+#main-nav {
+    padding: 0px;
+}
+
+.sh-nav li a.button {
+    width: 116px;
+}
+
+#shared-plans #plans .col {
+    padding: 32px 28px 20px 28px;
+}
+
+#fsw {
+    display: none;
+}
+
+#cpanel-nav li a {
+    padding: 16px 16px;
+    font-size: 16px;
+}
+
+#cpanel-nav li a img {
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#cpanel-nav {
+    margin: -10px 0px 12px 0px;
+}
+
+.subpage p {
+    width: 54%;
+}
+
+.about-reseller .flex-grid.two .col.padding-right {
+    padding-right: 0%;
+}
+
+#softaculous-text {
+    width: 58%;
+}
+
+.haLf-bg-dark {
+    padding: 60px 0px 66px 0px;
+}
+
+#softaculous.dark-bg {
+    padding:60px 0px;
+}
+
+.half-bg-dark .flex-grid.two .col:nth-child(2), .half-bg-grey .flex-grid.two .col:nth-child(2) {
+    padding-left: 140px;
+}
+
+.half-bg-dark .flex-grid.two .col:nth-child(1), .half-bg-grey .flex-grid.two .col:nth-child(1)  {
+    padding-right: 50px;
+    padding-left: 110px;
+}
+
+#services .col:nth-child(2) img {
+    left: 50px !important;
+}
+
+#tp-single-slider .carousel-control-next {
+    right: 4%;
+}
+
+#tp-single-slider .carousel-control-prev {
+    left: 4%;
+}
+
+#feature-lists .col {
+    width:50%;
+}
+
+.core-score {
+    display:none;
+}
+
+#server-specs-left {
+    padding-right: 4%;
+}
+
+.operating-systems img, .operating-systems .flex-grid.seven .col {
+    height:32px;
+}
+
+.operating-systems {
+    padding: 28px 0px;
+}
+
+#map-text {
+    padding-left: 4%;
+    padding-top: 30px;
+}
+
+#spec-2, #spec-3, #spec-4, #spec-5 {
+    width: 18%;
+}
+
+#locations-nav li a span {
+    display:none;
+}
+
+#locations-navigation {
+    width: 16%;
+}
+
+#locations-content {
+    width: 84%;
+    padding-left: 3%;
+}
+
+.year {
+    display:none;
+}
+
+.our-story #text {
+    padding-right: 6%;
+}
+
+#values .col {
+    padding: 30px 20px 0px 20px;
+}
+
+.btick {
+    max-width: 64%;
+}
+
+#slide-vps .btick {
+    max-width: 94%;
+}
+
+#slide-dedicated p {
+    max-width: 70%;
+}
+
+.map {
+    background-size: 470px;
+    width: 470px;
+    margin:-30px auto;
+}
+
+.pin {
+    font-size:12px;
+}
+
+.pin span {
+    margin:0px 4px;
+}
+.pin-bot span {
+    margin:0 auto;
+    margin-top:-2px;
+}.ny {    top: 136px;    left: 117px;}.la {    top: 147px;    left: -18px;}.wc {    top: 112px;    left: 68px;}
+
+.tx {
+    top: 157px;
+    left: 73px;
+}.fl {    top: 156px;    left: 103px;}.co {    top: 130px;    left: 24px;}.wa {    top: 116px;    left: 1px;}
+.uk {
+    left: 185px;
+    top: 100px;
+}
+
+.nl {
+    left: 218px;
+    top: 126px;
+}.de {    left: 218px;    top: 149px;}.ro {    left: 254px;    top: 144px;}.au {    left: 414px;    top: 243px;}.jp {    left: 409px;    top: 132px;}.sg {    left: 346px;    top: 192px;}
