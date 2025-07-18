@@ -1,6 +1,6 @@
-# ShockingHost Web UI
+# ShokingHost Web UI
 
-This project contains the front-end codebase for **ShockingHost**, a sample hosting services landing page. It includes promotional sections for various web hosting plans and product features.
+This project contains the front-end codebase for **ShokingHost**, a sample hosting services landing page. It includes promotional sections for various web hosting plans and product features.
 
 ## 📁 Project Files
 
@@ -13,7 +13,7 @@ This is the main landing page showcasing:
 
 
 # 📦 STEP 1: Clone the repository
-git clone https://github.com/your-username/shokinghost
+git clone https://github.com/onovogodwinprosperity/shokinghost
 
 # 📂 STEP 2: Navigate into the project folder
 cd shockinghost-landing-page
